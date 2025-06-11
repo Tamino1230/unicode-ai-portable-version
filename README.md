@@ -125,4 +125,4 @@ Feel free to open issues or pull requests on the [GitHub repository](https://git
 
 ## License
 
-(Please add your license information here if applicable)
+MIT License ([LICENSE](LICENSE))
