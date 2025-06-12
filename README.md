@@ -1,5 +1,7 @@
 # Unicode-Ai - Unicode Cleaner
 
+#### Please rather use the Online Version
+
 **Author:** [Tamino1230](https://github.com/Tamino1230)  
 **Online Version:** [tamino1230.github.io/unicode-ai](https://tamino1230.github.io/unicode-ai) (Does the same and works with commands!)
 
